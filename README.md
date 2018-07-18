@@ -1,8 +1,10 @@
 # Jrebel & Jet Brains License Server for Java
-# 原项目地址（ https://gitee.com/gsls200808/JrebelLicenseServerforJava ），此处仅作拷贝方便自己查阅。版权属于原作者。
+
+
 
 A license server for Jrebel & JetBrains products, it also support JRebel for Android and XRebel.
 
+原项目地址（ https://gitee.com/gsls200808/JrebelLicenseServerforJava ），此处仅作拷贝方便自己查阅。版权属于原作者。
 ***
 Thank ilanyu
 
